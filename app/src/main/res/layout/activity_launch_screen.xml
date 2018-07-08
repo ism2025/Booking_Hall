@@ -6,6 +6,6 @@
     android:alpha="0.7"
     android:background="@drawable/background_image"
     android:orientation="vertical"
-    tools:context=".LaunchScreenActivity">
+    tools:context=".Activities.LaunchScreenActivity">
 
 </LinearLayout>
